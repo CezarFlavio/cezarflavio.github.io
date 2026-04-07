@@ -23,6 +23,7 @@
 }
 .header img {
   max-width: 20rem;
+  transform: skewY(-15deg);
 }
 
 @media (max-width: 870px) {
